@@ -6,9 +6,9 @@ Desarrollador Web Full Stack
 
 Soy una desarrolladora web con nacionalidad chilena, graduada del reconocido bootcamp Soy Henry. Mi interés en el campo de la tecnología ha surgido debido a mi profunda curiosidad por los avances tecnológicos y su inmenso potencial, esto me ha llevado a una búsqueda constante de conocimientos en este ámbito. Mi formación como enfermera universitaria, complementada por cinco años de experiencia clínica, ha sido fundamental en mi desarrollo profesional en el campo de la salud me ha dotado de valiosas habilidades, especialmente en el trabajo en equipo. Soy una persona proactiva, apasionada por la investigación y el desarrollo de mi capacidad de aprendizaje. Mi comunicación efectiva y mis sólidas habilidades interpersonales me permiten colaborar de manera efectiva con equipos de trabajo. Mi objetivo profesional es continuar expandiendo y perfeccionando mis conocimientos con el fin de ser un recurso valioso para mi equipo y contribuir al éxito de la empresa a través de la excelencia en el trabajo y la colaboración efectiva
 
-* 🌍  Resido en Chile,R región de Ñuble, ciudad de San Carlos. 
+* 🌍  Resido en Chile, región de Ñuble, ciudad de San Carlos. 
 * ✉️  Puedes contactarme [mfarriag@gmail.com](mailto:mfarriag@gmail.com)
-* 🧠  Actualmente estoy estudiando Angular, estoy realizando cursos en plataformas en línea enfocados en Angular, reconociendo su importancia como una herramienta ampliamente utilizada por las empresas en el panorama actual
+* 🧠  Actualmente estoy estudiando Angular. Estoy realizando cursos en plataformas en línea enfocados en Angular, ya que destaco su importancia como una herramienta ampliamente utilizada por las empresas en el panorama actual.
 * ⚡  Fuera de mis horas laborales, me apasiona el bienestar físico y la conexión con la naturaleza. Vivo en el campo, lo que me brinda la oportunidad de disfrutar de la belleza de la naturaleza a diario. Me mantengo activa realizando actividades deportivas al menos tres días a la semana, lo que me ayuda a mantener un equilibrio saludable entre mi vida profesional y personal. Mi amor por la naturaleza también me inspira a explorar entornos al aire libre y disfrutar de la belleza que nos rodea.
 
 ### Skills
